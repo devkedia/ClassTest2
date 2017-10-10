@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\824a69fda3d0c2f8f2e5bf44dbfb4a7627ddc895\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_03acf41fda104fad93a9ba6b2015c74651a323d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\862c1d8f1e7c03a317c4bdfbec7887c41cd21c2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_58d839314732c117d174db50e0d8a7ec47a39ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\73f699c66f6b6cc7c799fd76a83cf3287c80f475\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_3e31e7c863661453901e9fad41b104a503be2287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ae854d7bc0874737a757c290f4344138223671bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\6d3ed8d2670628de60d8d1ac7c002bcef92a9ef7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_1e3ce6c74498dd8a4669ed3a703ff1329e6bc9d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\8cea381b387d007d557fa521561f8e7b4def679e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_3f5fe159a06ae1033f8f2a6dc7143a364acdb420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_07a5fd4238fbf3378f8d2e6df6ca0a4f36b210d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\26b37871ffbbeb3006ec1c44ac792b1a6be556a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_3abf3176c510f0e5922b93ecc932c9f8798ea5a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\1ae7a2281ff0425a973b34fcc8415767028309b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_5c398cbfb2ee423c3068d855236394b85372da3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\c4f84a2e76f090d3a8f8895c94ac0909af852148\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_bcd3bf37e19ab1cd00b15a544696bc4f384393d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\89eaba411ba552e813dee31d8d306c917372607c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_c37e07f02746eda1be41744841efa3ac6e7e00a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Devanand\.android\build-cache\d5fa9a09d6fd570e527e04f2ec65fd5b53107e11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Devanand\Desktop\ClassTest2\app\build\intermediates\pre-dexed\debug\classes_a38d62beaab7dc3207a021c3fce6b9ba9fbfdfa5.jar" />
+    </item>
+
+</items>
